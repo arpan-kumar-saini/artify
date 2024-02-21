@@ -3,14 +3,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center" id='readme-top'>
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/arpan-kumar-saini/music-website/blob/main/images/logo.jpeg?raw=true" alt="Logo" width="80" height="80">
+  <a href="">
+    <img src="https://github.com/arpan-kumar-saini/Stock-images/blob/main/ArtifyLogo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Artify</h3>
 
   <p align="center">
-    This project is an Ecpmmerce  Website for the Artists.
+    This project is an Ecommerce  Website for the Artists.
     <br />   
     <br />
     <a href="https://ritu-artify.netlify.app/">View Demo</a>
@@ -78,6 +78,7 @@
 
 
 ### Installation
+Follow the below Steps
 
 <ol>
   <li>
@@ -130,7 +131,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@arpan_kumar_saini](https://www.instagram.com/arpan_kumar_saini/) - arpansaini55@gamil.com
 
-Project Link: [https://github.com/arpan-kumar-saini/music-website](https://github.com/arpan-kumar-saini/music-website)
+Project Link: [https://github.com/arpan-kumar-saini/artify](https://github.com/arpan-kumar-saini/artify)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
