@@ -7,13 +7,13 @@
     <img src="https://github.com/arpan-kumar-saini/music-website/blob/main/images/logo.jpeg?raw=true" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Music app</h3>
+  <h3 align="center">Artify</h3>
 
   <p align="center">
-    This project is a Music Player Website.
+    This project is an Ecpmmerce  Website for the Artists.
     <br />   
     <br />
-    <a href="https://arpan-music.netlify.app/">View Demo</a>
+    <a href="https://ritu-artify.netlify.app/">View Demo</a>
     ·
     <a href="">Report Bug</a>
     ·
