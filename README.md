@@ -68,9 +68,9 @@
 
 ### Built With
 
-* HTML
-* CSS
-* JAVASCRIPT
+* Vite 
+* React Js 
+* Tailwind CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,12 +79,20 @@
 
 ### Installation
 
-clone the repo
+<ol>
+  <li>
+    clone the repo
 
 ......or....... 
 
-1.Download the zip file <br>
-2.Extract them
+a.Download the zip file <br>
+b.Extract them
+  </li>
+  <li>open the project in terminal and Run  following commands <br>
+    ... npm i ... <br>
+    ... npm run dev ...
+  </li>
+</ol>
 
 and you are good to go.
 
