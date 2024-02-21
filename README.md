@@ -43,7 +43,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src='https://arpansaini.netlify.app/music-app.png'>
+<img src='https://arpansaini.netlify.app/images/artify.png'>
 
 
 🎨 Welcome to Artify, where creativity meets commerce! 🛍️ <br>
