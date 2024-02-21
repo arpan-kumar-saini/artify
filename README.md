@@ -89,8 +89,15 @@ a.Download the zip file <br>
 b.Extract them
   </li>
   <li>open the project in terminal and Run  following commands <br>
-    ... npm i ... <br>
-    ... npm run dev ...
+  Install All packages 
+    
+    npm i 
+    
+  To Start the project 
+  ```
+    npm run dev
+  ```
+    
   </li>
 </ol>
 
